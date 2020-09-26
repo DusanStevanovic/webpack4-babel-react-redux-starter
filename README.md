@@ -1,5 +1,5 @@
 
-webpack+babel+react+redux starter"
+<h1>webpack+babel+react+redux starter</h1>
 
-npm i 
+npm i <br>
 npm run start
